@@ -1,3 +1,9 @@
+/*
+Title: Contains Duplicate
+Link: https://leetcode.com/problems/contains-duplicate
+Category: arrays-hashing
+Difficulty: Easy
+*/
 import java.util.*;
 
 public class ContainsDuplicate {
